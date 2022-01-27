@@ -1,5 +1,6 @@
 # bspswallow
 Adds functionality provided by the dwm "swallow" patch to bspwm.
+This is my fork that fixes a bug
 
 # Dependencies
 
